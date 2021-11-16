@@ -1,3 +1,3 @@
 # Estrutura-de-Dados-com-Javascript
 
-## Anterior ao ES6
+## Feito com versão do javascript anterior ao ES6
